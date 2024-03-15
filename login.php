@@ -15,7 +15,7 @@
         <input type="text" name="username" id="username">
         <label for="password">mật khẩu</label>
         <input type="password" name="password" id="password">
-        <input type="submit" name="btn_login" value="Login">
+        <input type="submit" name="btn_login" value="đăng nhập">
     </form>
 </body>
 </html>
