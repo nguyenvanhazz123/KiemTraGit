@@ -13,9 +13,9 @@
     <form action="">
         <label for="username">UserName</label>
         <input type="text" name="username" id="username">
-        <label for="matkhau">Mật khẩu</label>
-        <input type="text" name="matkhau" id="matkhau">
-         
+        <label for="password">Password</label>
+        <input type="password" name="password" id="password">
+         <input type="submit" name="btn_login" value="Login">
     </form>
 </body>
 </html>
