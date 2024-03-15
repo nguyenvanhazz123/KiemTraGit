@@ -11,7 +11,8 @@
 </head>
 <body>
     <form action="">
-        
+        <label for="username">UserName</label>
+        <input type="text" name="username" id="username"> 
     </form>
 </body>
 </html>
