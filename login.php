@@ -11,9 +11,9 @@
 </head>
 <body>
     <form action="">
-        <label for="username">UserName</label>
+        <label for="username">tên đăng nhập</label>
         <input type="text" name="username" id="username">
-        <label for="matkhau">Mật khẩu</label>
+        <label for="matkhau">mật khẩu</label>
         <input type="text" name="matkhau" id="matkhau">
          
     </form>
