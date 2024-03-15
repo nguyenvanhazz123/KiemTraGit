@@ -39,12 +39,9 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="" method="post">
-        <label for="username">tên đăng nhập</label>
-        <input type="text" name="username" id="username">
-        <label for="password">mật khẩu</label>
-        <input type="password" name="password" id="password">
-        <input type="submit" name="btn_login" value="đăng nhập">
+    <form action="">
+        <label for="username">UserName</label>
+        <input type="text" name="username" id="username"> 
     </form>
 </body>
 </html>
