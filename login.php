@@ -12,7 +12,10 @@
 <body>
     <form action="">
         <label for="username">UserName</label>
-        <input type="text" name="username" id="username"> 
+        <input type="text" name="username" id="username">
+        <label for="matkhau">Mật khẩu</label>
+        <input type="text" name="matkhau" id="matkhau">
+         
     </form>
 </body>
 </html>
